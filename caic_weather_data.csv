@@ -1,0 +1,308 @@
+Station,Elev,Temp,MxTp,MnTp,DewP,RH,Spd,Dir,Gst,Pcp1,Pcp24,PcpAc,Sno24,SWE24,SnoHt,SWE,Provider,Zone
+Range South,6325,67,87,54,-,-,4,242,4,-,-,-,-,-,-,-,MesoWest,Steamboat
+US-40 at Elk Spring,6731,71,83,47,46,41,9,135,11,-,-,-,-,-,-,-,CDOT,Steamboat
+U-40 Steamboat,6766,74,84,48,40,29,6,225,10,-,-,-,-,-,-,-,CDOT,Steamboat
+Steamboat Sprngs,6877,67,83,50,48,51,3,330,-,-,-,-,-,-,-,-,METAR,Steamboat
+Gypsum,7340,68,87,52,50,52,4,173,11,-,-,-,-,-,-,-,RAWS,Steamboat
+Hangman,7834,62,77,52,49,63,7,187,15,-,-,-,-,-,-,-,RAWS,Steamboat
+Yampa Ranger Statio,7880,-7,71,-19,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Steamboat
+Trapper North,7960,59,76,40,-,-,-,-,-,-,-,-,-,-,-,-,UPR,Steamboat
+Dry Lake,8400,61,74,47,45,54,1,161,5,0.00,2.00,-,-,-,-,-,SNOTEL,Steamboat
+Dry Lake,8416,65,77,48,44,47,4,166,11,-,-,-,-,-,-,-,RAWS,Steamboat
+Elk River,8700,61,74,46,-,-,-,-,-,0.00,1.00,-,-,-,2.0,-,SNOTEL,Steamboat
+Elkhead Divide,8780,62,73,46,-,-,-,-,-,0.00,0.40,-,-,-,0.0,0.00,SNOTEL,Steamboat
+Lynx Pass,8880,54,71,41,-,-,-,-,-,0.00,0.50,-,-,-,4.0,0.10,SNOTEL,Steamboat
+Porcupine Cr,8941,62,75,40,48,61,6,113,13,-,-,-,-,-,-,-,RAWS,Steamboat
+Bear River,9080,59,65,44,-,-,-,-,-,0.00,0.20,-,-,-,0.0,0.20,SNOTEL,Steamboat
+Crosho,9100,58,68,45,-,-,-,-,-,0.00,1.50,-,-,-,-,0.00,SNOTEL,Steamboat
+Columbine,9160,55,72,46,-,-,-,-,-,0.00,0.30,-,-,-,4.0,-,SNOTEL,Steamboat
+Buffalo Park,9240,58,65,41,-,-,-,-,-,0.00,0.50,-,-,-,0.0,-,SNOTEL,Steamboat
+Lost Dog,9320,55,70,46,-,-,-,-,-,0.00,0.30,-,-,-,-,-,SNOTEL,Steamboat
+Zirkel,9340,60,71,45,-,-,-,-,-,0.00,0.50,-,-,-,-,-,SNOTEL,Steamboat
+Rabbit Ears,9400,59,69,45,-,-,-,-,-,0.00,0.60,-,-,-,0.0,-,SNOTEL,Steamboat
+Burro Mountain,9400,62,69,45,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Steamboat
+Trapper Lake,9700,59,65,43,-,-,-,-,-,0.00,0.50,-,-,-,0.0,0.00,SNOTEL,Steamboat
+Ripple Creek,10340,56,66,42,-,-,1,223,5,0.00,0.80,-,-,-,-,0.00,SNOTEL,Steamboat
+Storm Peak Observat,10532,43,64,39,43,100,12,187,16,-,-,-,-,-,-,-,DRI,Steamboat
+Walton Peak,10577,54,68,41,45,71,0,0,-,-,-,-,-,-,-,-,METAR,Steamboat
+Bison Lake,10880,55,62,41,-,-,-,-,-,0.00,0.40,-,-,-,-,-,SNOTEL,Steamboat
+,,,,,,,,,,,,,,,,,,Steamboat
+0.6 MI W of E Idaho,7530,69,83,50,43,39,6,45,11,-,-,-,-,-,-,-,CDOT,Front Range
+Johnny_Park,7680,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+0.3 MI E of Fall Ri,7692,69,81,44,43,38,6,135,11,-,-,-,-,-,-,-,CDOT,Front Range
+CW3065 Estes Park,7701,63,86,44,42,47,6,296,15,-,-,-,-,-,-,-,APRSWXNET,Front Range
+Estes Park,7820,58,82,43,41,54,5,285,17,-,-,-,-,-,-,-,RAWS,Front Range
+Downieville Int,8010,66,77,46,39,38,7,90,18,-,-,-,-,-,-,-,CDOT,Front Range
+Nederland 4.2 E CO,8013,-,-,-,-,-,-,-,-,-,0.00,-,0.0,-,-,-,CoCoRaHS,Front Range
+LAWSON CLEAR CREEK,8080,66,84,46,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Front Range
+Twin_Sisters,8120,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Gold_Hill,8120,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Cannon_Mtn,8120,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Winiger_Ridge,8130,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Redfeather,8214,63,82,49,41,44,1,38,11,-,-,-,-,-,-,-,RAWS,Front Range
+Riverside,8340,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+St_Antons,8350,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+US-40 at Fraser Fla,8377,53,77,32,47,79,3,270,6,-,-,-,-,-,-,-,CDOT,Front Range
+Taylor_Mtn,8425,-,-,-,-,-,-,-,-,0.04,0.04,-,-,-,-,-,UDFCD,Front Range
+US-40 at Grand Lake,8444,55,75,39,47,73,3,45,6,-,-,-,-,-,-,-,CDOT,Front Range
+0.85 mi E of 15th S,8468,65,74,48,38,36,9,135,15,-,-,-,-,-,-,-,CDOT,Front Range
+Harbison Meadow,8500,57,76,38,45,65,4,267,11,-,-,-,-,-,-,-,RAWS,Front Range
+Gold_Lake,8560,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+DW0774 Estes Park,8573,59,80,53,41,52,9,336,15,-,-,-,-,-,-,-,APRSWXNET,Front Range
+North Fork South Pl,8577,68,82,43,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Front Range
+Swiss_Peaks,8600,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Copeland Lake,8600,48,77,48,-,-,-,-,-,0.10,0.40,-,-,-,0.0,-,SNOTEL,Front Range
+Big_Elk_Park,8600,-,-,-,-,-,-,-,-,0.04,0.04,-,-,-,-,-,UDFCD,Front Range
+US-40 at Red Dirt H,8609,60,80,36,49,66,3,90,7,-,-,-,-,-,-,-,CDOT,Front Range
+South Platte River,8613,71,74,37,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Front Range
+Sunset,8681,-,-,-,-,-,-,-,-,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Devils Thumb,8689,51,75,41,47,86,4,336,-,-,-,-,-,-,0.4,-,USGS,Front Range
+Stillwater Creek,8720,49,73,49,-,-,1,359,6,0.00,0.50,-,-,-,0.0,0.00,SNOTEL,Front Range
+0.9 mi W of 15th St,8783,64,76,49,37,38,9,180,19,-,-,-,-,-,-,-,CDOT,Front Range
+CW5469 Tabernash,8806,54,77,40,49,84,2,142,5,-,-,-,-,-,-,-,APRSWXNET,Front Range
+PSF4 555,8819,69,79,52,38,32,6,40,12,-,-,-,-,-,-,-,RAWS,Front Range
+Black Mountain,8920,62,68,47,-,-,-,-,-,0.00,0.10,-,-,-,0.0,0.00,SNOTEL,Front Range
+Lily Lake,8963,55,76,48,44,66,4,180,10,-,-,-,-,-,-,-,CDOT,Front Range
+Rawah,9020,56,70,46,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.10,SNOTEL,Front Range
+Phantom Valley,9030,47,70,41,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,Front Range
+Ward,9155,58,75,50,33,39,4,0,8,-,-,-,-,-,-,-,CODOT,Front Range
+CW5038 Ward,9214,59,75,50,30,34,4,360,15,-,-,-,-,-,-,-,APRSWXNET,Front Range
+CW5066 Gilpin Co.,9371,57,74,54,40,52,5,248,10,-,-,-,-,-,-,-,APRSWXNET,Front Range
+Pickle Gulch,9380,58,75,49,41,53,8,291,24,-,-,-,-,-,-,-,RAWS,Front Range
+Hourglass Lake,9380,53,72,48,41,69,2,59,7,0.00,0.40,-,-,-,1.0,0.10,SNOTEL,Front Range
+1.6 mi W of Woodwar,9382,60,74,44,37,41,11,225,20,-,-,-,-,-,-,-,CDOT,Front Range
+Bear Lake,9500,46,71,45,-,-,2,346,7,0.00,0.60,-,-,-,0.0,-,SNOTEL,Front Range
+Wilkerson Pass,9530,67,76,45,37,33,16,90,20,-,-,-,-,-,-,-,CDOT,Front Range
+Ranch Cr Meadow,9532,49,71,42,46,87,1,126,-,-,-,-,-,-,-,0.00,USGS,Front Range
+Willow Creek Pass,9540,53,66,39,-,-,2,289,8,0.00,0.30,-,-,-,1.0,0.00,SNOTEL,Front Range
+285S195 Kenosha Pas,9557,67,74,33,39,36,11,90,21,-,-,-,-,-,-,-,CDOT,Front Range
+Wild Basin,9560,46,74,44,-,-,-,-,-,0.30,0.60,-,-,-,0.0,-,SNOTEL,Front Range
+Sawtooth,9620,43,73,43,-,-,-,-,-,0.30,0.70,-,-,-,-,0.10,SNOTEL,Front Range
+Roach,9700,57,69,43,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,Front Range
+Lake Eldora,9700,50,71,50,-,-,-,-,-,0.00,0.20,-,-,-,0.0,0.10,SNOTEL,Front Range
+Ward_C-1,9701,52,74,38,38,61,5,279,16,0.00,0.00,-,-,-,-,-,UDFCD,Front Range
+Crn Site nr Boulder,9829,56,72,40,45,66,-,-,19,-,-,-,-,-,-,-,MesoWest,Front Range
+Bakerville,9833,66,74,58,10,11,0,-,0,-,-,-,-,-,-,-,CDOT,Front Range
+Niwot,9910,49,70,41,-,-,-,-,-,0.00,0.30,-,-,-,0.0,-,SNOTEL,Front Range
+Long Draw Resv,9980,55,66,37,39,63,1,235,6,0.00,0.40,-,-,-,-,0.00,SNOTEL,Front Range
+Joe Wright,10120,51,66,41,41,87,2,135,10,0.00,0.50,-,-,-,3.0,0.00,SNOTEL,Front Range
+Deadman Hill,10220,56,67,43,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Front Range
+Never Summer,10280,53,59,39,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,Front Range
+University Camp,10300,44,68,40,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.10,SNOTEL,Front Range
+Hermans Gulch,10349,58,67,40,35,43,7,225,13,-,-,-,-,-,-,-,CDOT,Front Range
+Jones Pass,10400,48,64,42,-,-,-,-,-,0.00,0.40,-,-,-,-,-,SNOTEL,Front Range
+Echo Lake,10600,54,62,40,-,-,-,-,-,0.00,0.20,-,-,-,-,0.00,SNOTEL,Front Range
+US 6 Loveland Pass,10612,58,66,39,36,43,0,-,0,-,-,-,-,-,-,-,CDOT,Front Range
+High Lonesome,10620,42,67,42,-,-,-,-,-,0.10,0.80,-,-,-,1.0,-,SNOTEL,Front Range
+Blue Ridge,10646,42,65,42,41,97,2,220,-,-,-,-,-,-,0.3,0.05,USGS,Front Range
+Lake Irene,10700,42,63,41,-,-,3,150,14,-,-,-,-,-,-,0.00,SNOTEL,Front Range
+Willow Park,10700,44,64,39,-,-,1,11,7,0.00,0.30,-,-,-,0.0,0.20,SNOTEL,Front Range
+Cameron Pass,10806,49,65,41,43,78,6,222,-,-,-,-,-,-,0.1,0.00,USGS,Front Range
+Arapaho Ridge,10960,48,62,41,-,-,1,156,11,0.00,0.50,-,-,-,0.0,0.00,SNOTEL,Front Range
+Jackwhacker Gulch,10960,53,62,40,-,-,-,-,-,0.00,0.00,-,-,-,-,-,SNOTEL,Front Range
+Fool Creek,11150,44,63,43,-,-,-,-,-,0.00,0.30,-,-,-,0.0,-,SNOTEL,Front Range
+Berthoud Summit,11300,41,60,41,-,-,1,255,7,0.00,0.50,-,-,-,0.0,0.10,SNOTEL,Front Range
+Berthoud Pass,11314,43,60,43,39,86,1,111,-,-,-,-,-,-,0.1,-,USGS,Front Range
+Loveland Basin,11400,48,63,42,-,-,-,-,-,0.10,0.60,-,-,-,0.0,-,SNOTEL,Front Range
+Niwot Ridge Saddle,11566,39,62,39,38,96,22,190,35,-,-,-,-,-,-,-,INTERNET,Front Range
+Loveland Pass,11890,46,56,43,30,52,9,253,21,0.00,0.12,-,-,-,-,-,CAIC,Front Range
+Berthoud Pass,12490,41,55,36,32,70,25,270,36,-,-,-,-,-,-,-,METAR,Front Range
+,,,,,,,,,,,,,,,,,,Front Range
+Mc Elroy/Kremmli,7412,64,81,41,50,59,7,110,-,-,-,-,-,-,-,-,METAR,Vail/Summit
+SH-9 Sum/Grand CO L,7797,62,82,42,46,54,6,180,10,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Elliot Ck Canal nr,7995,61,77,42,45,56,2,46,-,-,-,-,-,-,-,-,MesoWest,Vail/Summit
+Beaver Ck Village,8500,54,74,47,-,-,-,-,-,-,-,-,-,-,0.0,0.00,SNOTEL,Vail/Summit
+CW9561 Kremmling,8626,59,74,45,52,76,1,350,-,-,-,-,-,-,-,-,APRSWXNET,Vail/Summit
+0.5 mi E of Vail -,8776,62,73,44,41,46,1,225,11,-,-,-,-,-,-,-,CDOT,Vail/Summit
+0.7 mi W of CO-9 Si,8929,62,62,53,38,41,7,90,10,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Middle Fork Camp,8940,57,63,35,-,-,7,0,0,0.00,0.50,-,-,-,0.0,0.30,SNOTEL,Vail/Summit
+Dillon 1E,9065,66,83,44,-,-,-,-,-,-,-,-,-,-,-,-,MesoWest,Vail/Summit
+Dowd Junction,9068,59,76,45,44,57,3,308,11,-,-,-,-,-,-,-,RAWS,Vail/Summit
+0.9 mi W of CO-9 Fr,9134,63,75,40,41,44,3,225,10,-,-,-,-,-,-,-,CDOT,Vail/Summit
+1.3 mi W of Frisco,9256,60,75,42,40,48,4,45,9,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Keystone,9370,62,74,38,43,49,2,242,6,-,-,-,-,-,-,-,PWS,Vail/Summit
+2.4 mi E of Silvert,9390,61,75,44,39,44,7,180,9,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Summit Ranch,9400,51,72,37,-,-,-,-,-,0.00,0.50,-,-,-,-,-,SNOTEL,Vail/Summit
+Mccoy Park,9480,53,71,47,-,-,-,-,-,-,-,-,-,-,2.0,0.10,SNOTEL,Vail/Summit
+0.6 mi E of CO-91 C,9668,61,71,39,40,46,2,315,7,-,-,-,-,-,-,-,CDOT,Vail/Summit
+2.9 mi W of EJMT -,10208,55,69,44,37,50,5,225,8,-,-,-,-,-,-,-,CDOT,Vail/Summit
+2.1 mi W of Vail Pa,10214,57,69,40,38,49,5,270,8,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Breckenridge 5S,10230,66,77,44,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Vail/Summit
+Vail Pass - CDOT Ya,10250,49,68,43,40,69,3,352,10,-,-,-,-,-,-,-,CAIC,Vail/Summit
+Vail Mountain,10300,49,66,47,-,-,-,-,-,-,-,-,-,-,-,-,SNOTEL,Vail/Summit
+Vail SA - Mid-Mtn,10303,55,70,45,41,59,2,344,6,-,-,-,0.1,-,114.0,-,VailResort,Vail/Summit
+Elliot Ridge,10520,50,64,43,-,-,-,-,-,0.00,0.30,-,-,-,-,-,SNOTEL,Vail/Summit
+Copper Mountain,10550,53,67,39,-,-,-,-,-,-,-,-,-,-,-,0.30,SNOTEL,Vail/Summit
+Vail Pass,10582,56,67,36,39,53,7,45,13,-,-,-,-,-,-,-,CDOT,Vail/Summit
+1.7 mi W of EJMT -,10610,57,68,45,38,48,5,270,10,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Vail SA - China Bow,11031,51,63,45,36,57,5,235,16,-,-,-,-,-,-,-,VailResort,Vail/Summit
+Grizzly Peak,11100,54,63,44,-,-,-,-,-,0.00,0.20,-,-,-,0.0,0.10,SNOTEL,Vail/Summit
+Vail SA - Blue Sky,11109,51,63,45,37,59,6,276,12,-,-,-,-,-,-,-,VailResort,Vail/Summit
+EJT West Portal,11126,53,69,45,36,52,9,225,11,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Ptarmigan,11202,51,62,42,40,66,1,334,-,-,-,-,-,-,-,0.09,USGS,Vail/Summit
+Vail SA - PHQ,11248,50,61,45,37,60,3,251,11,0.00,0.00,-,-,-,1.8,-,VailResort,Vail/Summit
+Boss Basin,11259,50,60,47,38,64,2,338,-,-,-,-,-,-,0.6,-,USGS,Vail/Summit
+Fremont Pass,11318,53,62,45,35,51,8,270,11,-,-,-,-,-,-,-,CDOT,Vail/Summit
+Hoosier Pass,11400,50,63,43,-,-,3,326,7,0.00,0.50,-,-,-,0.0,-,SNOTEL,Vail/Summit
+Fremont Pass,11400,52,61,42,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Vail/Summit
+A-Basin SA-MidMtn,11660,48,63,45,37,64,-,-,-,-,-,0.00,0.2,-,0.3,-,A-BasinSA,Vail/Summit
+A-Basin SA-Pali,11920,46,61,46,30,54,0,0,0,-,-,-,-,-,-,-,A-BasinSA,Vail/Summit
+Copper Mountain,12074,54,64,48,41,62,5,290,-,-,-,-,-,-,-,-,METAR,Vail/Summit
+A-Basin SA-Summit,12462,40,59,40,36,84,11,261,20,-,-,-,-,-,-,-,A-BasinSA,Vail/Summit
+,,,,,,,,,,,,,,,,,,Vail/Summit
+Sargents,8471,71,78,35,-,-,-,-,-,-,-,-,-,-,-,-,MesoWest,Sawatch
+Red Deer,8727,75,79,49,29,18,9,203,21,-,-,-,-,-,-,-,RAWS,Sawatch
+Needle Creek,8994,72,78,49,36,27,6,293,12,-,-,-,-,-,-,-,RAWS,Sawatch
+Poncha Pass,9009,73,74,45,32,22,7,225,17,-,-,-,-,-,-,-,CDOT,Sawatch
+Jones Hill,9554,69,76,47,33,26,11,297,20,-,-,-,-,-,-,-,RAWS,Sawatch
+Lodge Pole Flats,9641,63,70,39,37,38,6,16,19,-,-,-,-,-,-,-,RAWS,Sawatch
+Cottonwood Pass,9827,66,79,55,30,26,8,260,-,-,-,-,-,-,-,-,METAR,Sawatch
+Leadville,9928,67,73,38,38,34,5,310,-,-,-,-,-,-,-,-,METAR,Sawatch
+Rough And Tumble,10360,65,65,39,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.40,SNOTEL,Sawatch
+Saint Elmo,10540,61,69,39,-,-,-,-,-,0.00,0.60,-,-,-,0.0,0.00,SNOTEL,Sawatch
+Michigan Creek,10600,58,66,36,38,54,3,318,10,0.00,0.60,-,-,-,0.0,0.00,SNOTEL,Sawatch
+Brumley,10600,57,64,34,-,-,-,-,-,0.10,0.30,-,-,-,-,0.00,SNOTEL,Sawatch
+Porphyry Creek,10760,60,65,38,-,-,2,215,7,0.00,0.50,-,-,-,-,0.00,SNOTEL,Sawatch
+Buckskin Joe,11150,59,64,40,-,-,-,-,-,0.00,0.30,-,-,-,-,0.10,SNOTEL,Sawatch
+Monarch Pass,11301,58,63,48,28,32,0,-,0,-,-,-,-,-,-,-,CDOT,Sawatch
+Sargents Mesa,11530,59,62,48,-,-,-,-,-,0.00,0.20,-,-,-,0.0,-,SNOTEL,Sawatch
+Monarch Pass,12031,55,61,45,28,35,25,290,32,-,-,-,-,-,-,-,METAR,Sawatch
+,,,,,,,,,,,,,,,,,,Sawatch
+Silt (7),5369,76,90,55,53,45,2,225,8,-,-,-,-,-,-,-,CODOT,Aspen
+Carbondale 0.5 W CO,6134,-,-,-,-,-,-,-,-,-,0.00,-,0.0,-,-,-,CoCoRaHS,Aspen
+Basalt-Holland Hill,6639,72,83,46,52,50,6,180,20,-,-,-,-,-,-,-,CDOT,Aspen
+Old Snowmass,6879,69,86,30,48,47,8,180,14,-,-,-,-,-,-,-,CDOT,Aspen
+Shale Bluffs/Brush,7408,66,80,42,45,47,7,315,18,-,-,-,-,-,-,-,CDOT,Aspen
+Ruedi Reservoir,7790,65,78,46,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Aspen
+Frying Pan River at,7800,68,79,39,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Aspen
+Aspen/Sardy Field,7815,64,78,43,41,43,7,80,17,-,-,-,-,-,-,-,METAR,Aspen
+Aspen-Cemetery Lane,7926,64,81,46,42,45,3,180,11,-,-,-,-,-,-,-,CDOT,Aspen
+ASPEN 1SE,8014,74,83,43,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Aspen
+The Crown,8304,65,78,52,48,54,10,345,22,-,-,-,-,-,-,-,RAWS,Aspen
+Nast Lake,8700,64,75,35,-,-,-,-,-,0.00,0.40,-,-,-,4.0,-,SNOTEL,Aspen
+McClure Pass,8770,55,70,47,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Aspen
+North Lost Trail,9200,49,71,46,-,-,-,-,-,0.10,0.50,-,-,-,1.0,0.10,SNOTEL,Aspen
+Kiln,9600,60,69,37,-,-,-,-,-,0.00,0.10,-,-,-,-,-,SNOTEL,Aspen
+Blue Gulch Glenwd C,9838,55,69,45,46,71,2,180,4,0.00,0.09,-,-,-,-,-,CDOT,Aspen
+Chapman Tunnel,10110,58,66,38,-,-,-,-,-,0.00,0.30,-,-,-,-,-,SNOTEL,Aspen
+Aspen SA - Gents Ba,10122,59,67,48,40,48,-,-,-,-,-,-,0.0,-,0.5,-,AspenSkiCo,Aspen
+Chair Mountain,10293,50,67,50,41,69,2,227,-,-,-,-,-,-,1.9,0.00,USGS,Aspen
+Ivanhoe,10400,58,68,42,-,-,-,-,-,0.00,0.30,-,-,-,-,-,SNOTEL,Aspen
+Snowmass SA MidMtn,10422,53,63,45,-,-,-,-,-,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Hunter Creek,10497,50,67,45,40,67,3,169,-,-,-,-,-,-,-,0.00,USGS,Aspen
+Independence Pass,10600,62,66,36,-,-,-,-,-,0.00,0.20,-,-,-,-,0.10,SNOTEL,Aspen
+Aspen SA - Bell,10600,-,-,-,-,-,3,14,7,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Sunlight,10604,55,64,43,46,72,7,200,-,-,-,-,-,-,-,-,METAR,Aspen
+Schofield Pass,10700,54,67,40,27,37,3,222,10,0.00,0.40,-,-,-,0.0,-,SNOTEL,Aspen
+Aspen SA - Gents To,11162,53,62,44,37,55,-,-,-,-,-,-,0.0,-,0.0,-,AspenSkiCo,Aspen
+Snowmass SA Elk Cam,11379,47,61,43,38,69,5,20,9,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Snowmass SA Timberl,11522,48,60,44,40,73,-,-,-,0.00,0.00,-,0.0,-,2.4,-,AspenSkiCo,Aspen
+Aspen Highlands NWo,11800,46,54,44,-,-,-,-,-,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Snowmass SA Big Bur,11933,45,56,44,31,58,8,202,31,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Snowmass SA Alpine,11970,45,56,43,35,68,13,222,44,-,-,-,-,-,-,-,AspenSkiCo,Aspen
+Independence Pass,12198,50,55,43,34,56,9,298,-,-,-,-,-,-,1.1,0.00,USGS,Aspen
+,,,,,,,,,,,,,,,,,,Aspen
+Paonia Reservoir nr,6480,71,86,45,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Gunnison
+Blue Mesa Dam nr Gu,7350,73,82,45,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Gunnison
+Gunnison Arpt,7674,71,80,42,43,36,23,330,34,-,-,-,-,-,-,-,METAR,Gunnison
+CW1428 Gunnison,7717,70,83,40,48,45,4,94,17,-,-,-,-,-,-,-,APRSWXNET,Gunnison
+Crested Butte,8860,60,77,-5,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Gunnison
+Crested Butte,8923,59,73,37,40,48,9,45,11,-,-,-,-,-,-,-,CDOT,Gunnison
+Taylor Park,9169,44,48,11,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Gunnison
+Park Cone,9600,63,68,37,-,-,-,-,-,0.00,0.20,-,-,-,-,0.00,SNOTEL,Gunnison
+Butte,10160,61,71,46,-,-,-,-,-,0.00,0.30,-,-,-,-,0.00,SNOTEL,Gunnison
+Irwin Guides StudyP,10423,51,66,37,38,59,4,125,13,-,-,-,0.0,-,11.3,-,IrwinGuide,Gunnison
+Taylor Park,10501,61,71,41,33,35,10,260,19,-,-,-,-,-,-,-,RAWS,Gunnison
+Lake Irwin,10606,52,64,41,40,63,4,249,-,-,-,-,-,-,1.3,0.00,USGS,Gunnison
+Upper Taylor,10640,53,65,39,-,-,-,-,-,0.10,0.30,-,-,-,-,-,SNOTEL,Gunnison
+Dan K - Elkton,11147,47,63,47,34,59,6,304,21,0.01,0.01,-,12.9,-,0.0,-,DanK,Gunnison
+Crested Butte Mtn R,11300,48,62,48,-,-,9,253,22,-,-,-,-,-,-,-,CBMR,Gunnison
+Irwin Guides RidgeT,11985,44,56,44,34,69,14,261,25,-,-,-,-,-,-,-,IrwinGuide,Gunnison
+Taylor Pass,12210,47,54,44,36,65,7,291,-,-,-,-,-,-,0.7,0.00,USGS,Gunnison
+Cinnamon Mtn,12301,46,59,40,39,77,8,190,17,-,-,-,-,-,-,-,RMBL,Gunnison
+,,,,,,,,,,,,,,,,,,Gunnison
+Paonia 1SW,5580,80,93,55,-,-,-,-,-,-,-,-,-,-,-,-,HADS,Grand Mesa
+Jay,6200,83,91,59,50,32,4,110,10,-,-,-,-,-,-,-,RAWS,Grand Mesa
+Douglas Pass (139S0,8270,67,73,50,43,42,20,135,26,-,-,-,-,-,-,-,CDOT,Grand Mesa
+Overland Res.,9840,56,66,42,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Grand Mesa
+Park Reservoir,9960,55,64,41,-,-,-,-,-,0.00,0.40,-,-,-,0.0,0.10,SNOTEL,Grand Mesa
+Mesa Lakes,10000,58,64,43,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,Grand Mesa
+Whitewater Creek,10000,61,70,39,46,57,0,89,-,-,-,-,-,-,-,-,CLOUDSEED,Grand Mesa
+Grand Mesa-Skyway P,10628,32,32,32,-14,13,32,4,33,-,-,-,-,-,-,-,JPL,Grand Mesa
+,,,,,,,,,,,,,,,,,,Grand Mesa
+Placerville,7030,53,84,7,-,-,-,-,-,-,-,-,-,-,-,-,HADS,North San Juan
+GMF1 Montrose 555,7407,72,77,43,43,35,3,55,10,-,-,-,-,-,-,-,RAWS,North San Juan
+Montrose 11ENE,8250,58,77,49,45,61,-,-,11,-,-,-,-,-,-,-,MesoWest,North San Juan
+EW6300 Lake City,8655,70,74,40,39,32,8,27,18,-,-,-,-,-,-,-,APRSWXNET,North San Juan
+Rico,8931,71,71,40,46,41,1,92,5,0.00,0.01,0.01,16.6,-,35.8,-,CAIC,North San Juan
+Telluride,8942,71,77,44,40,33,7,225,14,-,-,-,-,-,-,-,CDOT,North San Juan
+Telluride,9085,72,72,50,30,21,13,270,21,-,-,-,-,-,-,-,METAR,North San Juan
+Silverton,9267,69,73,36,33,27,11,315,18,-,-,-,-,-,-,-,CDOT,North San Juan
+Columbine Pass,9400,67,73,47,-,-,-,-,-,0.00,0.90,-,-,-,-,-,SNOTEL,North San Juan
+Upper Rio Grande,9400,71,71,37,-,-,1,75,4,0.00,0.90,-,-,-,-,0.00,SNOTEL,North San Juan
+Monument,9543,63,69,41,41,45,-,-,-,0.00,0.00,0.00,0.0,-,1.2,-,CAIC,North San Juan
+Lone Cone,9600,63,70,40,-,-,-,-,-,0.00,0.60,-,-,-,2.0,0.10,SNOTEL,North San Juan
+Idarado,9800,64,70,40,-,-,-,-,-,0.00,0.30,-,-,-,3.0,0.10,SNOTEL,North San Juan
+El Diente Peak,10000,64,66,39,-,-,1,263,11,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,North San Juan
+Cochetopa Pass,10020,61,63,45,-,-,-,-,-,0.10,0.30,-,-,-,0.0,0.00,SNOTEL,North San Juan
+Mineral Creek,10040,61,65,36,-,-,-,-,-,0.00,0.30,-,-,-,-,-,SNOTEL,North San Juan
+Lizard Head Pass,10200,64,65,35,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.00,SNOTEL,North San Juan
+Blue Park,10431,68,68,38,32,26,5,244,16,-,-,-,-,-,-,-,RAWS,North San Juan
+Molas Lake,10500,62,67,37,-,-,-,-,-,0.00,0.60,-,-,-,-,0.00,SNOTEL,North San Juan
+Moon Pass,11140,59,63,48,-,-,-,-,-,0.10,0.70,-,-,-,0.0,0.30,SNOTEL,North San Juan
+Red Mountain Pass,11200,61,62,39,-,-,-,-,-,0.00,0.30,-,-,-,1.0,0.10,SNOTEL,North San Juan
+Slumgullion,11560,59,59,44,29,32,4,286,10,0.00,0.40,-,-,-,2.0,-,SNOTEL,North San Juan
+Black Mesa,11580,60,60,45,-,-,-,-,-,0.20,0.60,-,-,-,0.0,0.00,SNOTEL,North San Juan
+Beartown,11600,61,61,39,-,-,-,-,-,0.00,0.30,-,-,-,0.0,0.30,SNOTEL,North San Juan
+Senator Beck,12210,52,54,42,29,41,7,306,-,-,-,-,-,-,0.0,0.00,USGS,North San Juan
+,,,,,,,,,,,,,,,,,,North San Juan
+Durango,6495,86,86,59,46,25,0,-,0,-,-,-,-,-,-,-,CDOT,South San Juan
+Hesperus 13.3 SSW C,6686,-,-,-,-,-,-,-,-,-,0.00,-,0.0,-,-,-,CoCoRaHS,South San Juan
+Dur-La Plata Arp,6687,84,85,45,39,20,7,270,18,-,-,-,-,-,-,-,METAR,South San Juan
+CW6135 Bayfield,6979,81,84,47,40,23,9,253,12,-,-,-,-,-,-,-,APRSWXNET,South San Juan
+Pagosa Springs,7262,82,86,44,41,24,6,180,14,-,-,-,-,-,-,-,CDOT,South San Juan
+Mesa Mtn,7380,84,84,57,36,18,6,268,19,-,-,-,-,-,-,-,RAWS,South San Juan
+K9NRG Pagosa Spring,7400,80,84,50,39,23,0,72,3,-,-,-,-,-,-,-,APRSWXNET,South San Juan
+Devil Mtn,7460,84,85,56,36,18,6,192,12,-,-,-,-,-,-,-,RAWS,South San Juan
+N6PTL Durango,7510,76,79,53,39,26,3,261,6,-,-,-,-,-,-,-,APRSWXNET,South San Juan
+Pagosa Springs,7658,78,81,46,32,19,8,210,-,-,-,-,-,-,-,-,METAR,South San Juan
+Piedra Guard Statio,7670,70,80,30,-,-,-,-,-,-,-,-,-,-,-,-,HADS,South San Juan
+Vallecito Res Bayfi,7673,-,-98,-98,-,-,-,-,-,-,-,-,-,-,-,-,HADS,South San Juan
+Navajo Rvr at Bande,7941,76,77,42,-,-,-,-,-,-,-,-,-,-,-,-,HADS,South San Juan
+Log Chute,8254,80,80,57,37,21,4,275,15,-,-,-,-,-,-,-,RAWS,South San Juan
+Rico 4SSW,8422,72,76,35,-,-,-,-,-,-,-,-,-,-,-,-,HADS,South San Juan
+Sandoval Mesa,8492,80,81,58,35,20,4,277,11,-,-,-,-,-,-,-,RAWS,South San Juan
+Cascade #2,8920,72,73,44,-,-,-,-,-,0.10,0.70,-,-,-,-,0.00,SNOTEL,South San Juan
+KC5EVE-14 Durango,8950,84,84,53,42,23,3,124,-,-,-,-,-,-,-,-,APRSWXNET,South San Juan
+Scotch Creek,9100,69,72,37,-,-,-,-,-,0.00,0.40,-,-,-,-,0.10,SNOTEL,South San Juan
+Conejos Rvr Blo Pla,9880,70,70,43,-,-,-,-,-,-,-,-,-,-,-,-,HADS,South San Juan
+Mancos,10000,59,65,54,-,-,-,-,-,0.00,0.60,-,-,-,0.0,0.30,SNOTEL,South San Juan
+Cumbres Trestle,10040,69,69,42,-,-,2,50,7,0.00,0.50,-,-,-,-,-,SNOTEL,South San Juan
+Upper San Juan,10200,64,66,39,-,-,-,-,-,0.00,0.40,-,-,-,2.0,0.10,SNOTEL,South San Juan
+Big Bear Park,10400,66,67,53,32,28,9,233,15,-,-,-,-,-,-,-,RAWS,South San Juan
+Wolf Creek Pass,10431,67,70,45,34,29,6,180,16,-,-,-,-,-,-,-,CDOT,South San Juan
+Spud Mountain,10660,58,64,44,-,-,-,-,-,0.00,0.30,-,-,-,6.0,0.20,SNOTEL,South San Juan
+Sharkstooth,10720,63,64,46,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,South San Juan
+Weminuche Creek,10740,59,62,47,-,-,-,-,-,0.00,0.60,-,-,-,1.0,0.00,SNOTEL,South San Juan
+Columbus Basin,10785,59,62,42,-,-,-,-,-,0.00,0.30,-,-,-,-,0.40,SNOTEL,South San Juan
+Vallecito,10880,63,63,51,-,-,-,-,-,0.00,0.50,-,-,-,0.0,-,SNOTEL,South San Juan
+Wolf Creek Summit,11000,61,64,49,-,-,4,209,9,0.00,0.30,-,-,-,-,0.00,SNOTEL,South San Juan
+Lily Pond,11000,59,62,47,-,-,-,-,-,0.00,0.50,-,-,-,4.0,-,SNOTEL,South San Juan
+Wager Gulch,11100,61,61,39,-,-,-,-,-,0.00,0.50,-,-,-,1.0,0.00,SNOTEL,South San Juan
+Stump Lakes,11200,-,-,-,-,-,-,-,-,-,-,-,-,-,0.0,0.00,SNOTEL,South San Juan
+Middle Creek,11250,57,59,40,-,-,-,-,-,0.00,0.20,-,-,-,0.0,-,SNOTEL,South San Juan
+Grayback,11620,56,60,45,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,South San Juan
+Wolf Creek Pass,11759,59,59,45,32,36,13,210,20,-,-,-,-,-,-,-,METAR,South San Juan
+Lewis Creek,11847,56,57,48,34,43,5,244,14,-,-,-,-,-,-,-,CAIC,South San Juan
+,,,,,,,,,,,,,,,,,,South San Juan
+Copper Gulch,7433,80,84,49,33,18,7,36,17,-,-,-,-,-,-,-,RAWS,Sangre
+Sand Dunes,8325,78,83,51,36,22,4,323,12,-,-,-,-,-,-,-,RAWS,Sangre
+Medano Pass,9649,69,72,41,-,-,-,-,-,0.00,0.40,-,-,-,3.0,-,SNOTEL,Sangre
+Apishapa,10000,63,70,50,-,-,-,-,-,0.00,0.40,-,-,-,0.0,-,SNOTEL,Sangre
+Whiskey Ck,10220,63,63,39,37,40,1,228,5,0.10,0.30,-,-,-,0.0,-,SNOTEL,Sangre
+Culebra #2,10500,64,65,41,-,-,2,188,8,0.00,0.20,-,-,-,0.0,0.10,SNOTEL,Sangre
+Ute Creek,10650,60,62,38,-,-,-,-,-,0.00,0.20,-,-,-,0.0,0.00,SNOTEL,Sangre
+Hayden Pass,10720,61,66,47,-,-,8,248,20,0.00,0.50,-,-,-,-,-,SNOTEL,Sangre
+South Colony,10800,61,65,37,-,-,1,208,7,0.10,0.70,-,-,-,0.0,-,SNOTEL,Sangre
+Trinchera,10860,63,65,46,-,-,-,-,-,0.00,0.40,-,-,-,0.0,0.00,SNOTEL,Sangre
+,,,,,,,,,,,,,,,,,,Sangre
