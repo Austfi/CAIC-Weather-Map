@@ -1,5 +1,5 @@
 # CAIC-Weather-Map
-Create an interactive weather map using CAIC products and additional online resources. 
+Create an interactive weather map using CAIC products and additional online resources. Currently limited to Vail/Summit CO. 
 
 
 ## Libraries Used
