@@ -12,6 +12,9 @@ Create an interactive weather map using CAIC products and additional online reso
 
 Current usage is done within a Jupyter Notebook 'weather_map.ipynb' 
 
+## Example 
+
+![Screenshot 2024-09-04 at 11 28 57](https://github.com/user-attachments/assets/d96256ab-9009-4be4-b1ea-886aca3064c2)
 
 ## Libraries Used
 
