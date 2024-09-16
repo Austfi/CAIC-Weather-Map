@@ -1,0 +1,28 @@
+{
+    "A-Basin Zuma Bowl": {
+        "latitude": 39.62271,
+        "longitude": -105.87304,
+        "image_urls": [
+            "https://ftp.purchus.io/wwwroot/abasin/webcam/abasincam5.jpg",
+            "https://b9.hdrelay.com/camera/61f47337c621805ca7d0e6fb/snapshot",
+            "https://b7.hdrelay.com/camera/61e1c09efaf0bf0b5629ac56/snapshot",
+            "https://webcams.opensnow.com/current/2017.jpg"
+        ]
+    },
+    "Copper Mtn - Excelerator": {
+        "latitude": 39.47583,
+        "longitude": -106.15190,
+        "image_urls": [
+            "https://b7b.hdrelay.com/cameras/0d6c3cf7-c523-41cf-9e01-0019ed77f9a3/GetOneShot?size=800x450"
+        ]    
+    },
+    "Keystone": {
+        "latitude": 39.57881,
+        "longitude": -105.94080,
+        "image_urls": [
+            "https://live9.brownrice.com/cam-images/keystonedercum.jpg",
+            "https://live9.brownrice.com/cam-images/keystonenorthpeak.jpg",
+            "https://cache.snow.com/Mtncams/KeySnowStake.jpg"
+        ]
+    }
+}

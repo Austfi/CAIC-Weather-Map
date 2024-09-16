@@ -1,0 +1,98 @@
+[   
+    {
+    "name": "A-Basin Ski Area",
+    "location_code": "FWAB",
+    "latitude": 39.6324,
+    "longitude": -105.8690,
+    "model_elevation": 11066,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/FWAB-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/FWAB-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/FWAB-e.png"
+    }
+},
+{
+    "name": "Beaver Creek Ski Area",
+    "location_code": "BC_TOP",
+    "latitude": 39.5673,
+    "longitude": -106.5076,
+    "model_elevation": 10862,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/BC_TOP-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/BC_TOP-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/BC_TOP-e.png"
+    }
+},
+{
+    "name": "Breckenridge Ski Area",
+    "location_code": "BRECKENRDG",
+    "latitude": 39.4727,
+    "longitude": -106.1026,
+    "model_elevation": 11587,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/BRECKENRDG-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/BRECKENRDG-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/BRECKENRDG-e.png"
+    }
+},
+{
+    "name": "Copper Mt Ski Area",
+    "location_code": "COPPERMTN",
+    "latitude": 39.4843,
+    "longitude": -106.1555,
+    "model_elevation": 10724,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/COPPERMTN-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/COPPERMTN-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/COPPERMTN-e.png"
+    }
+},
+{
+    "name": "Keystone Ski Area",
+    "location_code": "KEYSTONE",
+    "latitude": 39.5792,
+    "longitude": -105.9429,
+    "model_elevation": 10869,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/KEYSTONE-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/KEYSTONE-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/KEYSTONE-e.png"
+    }
+},
+{
+    "name": "Loveland Pass",
+    "location_code": "LVLNDPASS",
+    "latitude": 39.6637,
+    "longitude": -105.8788,
+    "model_elevation": 11856,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/LVLNDPASS-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/LVLNDPASS-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/LVLNDPASS-e.png"
+    }
+},
+{
+    "name": "Vail Pass",
+    "location_code": "VAIL_PASS",
+    "latitude": 39.5310,
+    "longitude": -106.2170,
+    "model_elevation": 11016,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/VAIL_PASS-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/VAIL_PASS-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/VAIL_PASS-e.png"
+    }
+},
+{
+    "name": "Vail Ski Area",
+    "location_code": "VAILSKI",
+    "latitude": 39.5988,
+    "longitude": -106.3757,
+    "model_elevation": 10190,
+    "forecast_image_urls": {
+        "WRF": "https://looper.avalanche.state.co.us/weather/ptfcst/wrf/current/VAILSKI-e.png",
+        "WRFHR": "https://looper.avalanche.state.co.us/weather/ptfcst/wrfhr/current/VAILSKI-e.png",
+        "NAM": "https://looper.avalanche.state.co.us/weather/ptfcst/nam/current/VAILSKI-e.png"
+    }
+}
+]
